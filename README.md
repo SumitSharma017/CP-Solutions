@@ -8,18 +8,19 @@ Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cl
 
 Synced automatically by SolveBase.
 
-**Total solved: 24**
+**Total solved: 25**
 
 ## Codeforces
 
 Solutions by [kinetic](https://codeforces.com/profile/kinetic), organized by difficulty rating.
 
-**Solved: 24**
+**Solved: 25**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 1 |
 | [1200](./codeforces/1200) | 1 |
+| [1300](./codeforces/1300) | 1 |
 | [1500](./codeforces/1500) | 3 |
 | [1600](./codeforces/1600) | 4 |
 | [1700](./codeforces/1700) | 6 |
